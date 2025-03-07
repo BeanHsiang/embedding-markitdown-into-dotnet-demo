@@ -1,0 +1,22 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyz.d
+*.pyw.d
+*.pyc.d
+*.pyo.d
+
+# .Net
+obj/
+bin/
+build/
+
+
+
+# MacOS
+.DS_Store
